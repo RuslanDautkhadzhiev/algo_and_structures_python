@@ -1,1 +1,0 @@
-# algo_and_structures_python
