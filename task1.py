@@ -17,3 +17,4 @@ for i in range(2, 100):
             arr[j-2] += 1
 for i in range(0, len(arr)):
     print('Всего чисел, кратных %d : %d' % (i+2, arr[i]))
+    
